@@ -45,7 +45,7 @@
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/your_username/SmartFileOrganizer.git
+   git clone https://github.com/MiHaTsKiYi13/File-Organizer.git
    cd SmartFileOrganizer
    ```
 

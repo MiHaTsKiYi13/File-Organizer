@@ -51,15 +51,6 @@
 
 2. **Установите зависимости:**
 
-   Создайте файл `requirements.txt` со следующим содержимым:
-
-   ```
-   PyQt6
-   Pillow
-   ```
-
-   Затем выполните:
-
    ```bash
    pip install -r requirements.txt
    ```

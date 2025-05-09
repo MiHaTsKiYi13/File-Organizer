@@ -46,7 +46,7 @@
 
    ```bash
    git clone https://github.com/MiHaTsKiYi13/File-Organizer.git
-   cd SmartFileOrganizer
+   cd File-Organizer
    ```
 
 2. **Установите зависимости:**
